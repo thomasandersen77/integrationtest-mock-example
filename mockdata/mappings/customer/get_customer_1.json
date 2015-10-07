@@ -1,0 +1,24 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/customer/1"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "firstname": "thomas",
+      "lastname" : "andersen",
+      "address" : [
+        {
+          "street" : "stryken",
+          "number" : 45,
+          "city" : "Hokksund"
+        }
+      ],
+      "single" : true
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

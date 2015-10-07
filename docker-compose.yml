@@ -1,0 +1,6 @@
+wiremock:
+  build: wiremock
+  ports:
+    - 18080:8080
+  volumes:
+    - ./mockdata/mappings:/wiremock/mappings/
