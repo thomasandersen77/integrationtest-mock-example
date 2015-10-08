@@ -1,7 +1,14 @@
+restservices:
+  build: rest-services
+  ports:
+    - "8080:8080"
+  links:
+    - wiremock
+
 wiremock:
   build: wiremock
   ports:
-    - 18080:8080
+    - "18080:8080"
   volumes:
     - ./mockdata/mappings:/wiremock/mappings/
 

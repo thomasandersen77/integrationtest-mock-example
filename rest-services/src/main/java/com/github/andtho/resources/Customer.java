@@ -1,4 +1,4 @@
-package com.github.andtho.domain;
+package com.github.andtho.resources;
 
 import lombok.Data;
 
