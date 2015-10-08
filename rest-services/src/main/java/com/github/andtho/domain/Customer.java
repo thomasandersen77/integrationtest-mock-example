@@ -6,6 +6,6 @@ import lombok.Data;
 public class Customer {
     private String firstname;
     private String lastname;
+    private String ssn;
     private Address address;
-    private Boolean single;
 }

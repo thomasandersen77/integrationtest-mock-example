@@ -8,14 +8,13 @@
     "jsonBody": {
       "firstname": "thomas",
       "lastname" : "andersen",
+      "ssn": "09077745367",
       "address" :
         {
           "street" : "stryken",
           "number" : 45,
           "city" : "Hokksund"
         }
-      ,
-      "single" : true
     },
     "headers": {
       "Content-Type": "application/json"

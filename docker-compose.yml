@@ -6,9 +6,9 @@ restservices:
     - wiremock
 
 wiremock:
-  build: wiremock
+  build: integrationmock
   ports:
     - "18080:8080"
   volumes:
-    - ./mockdata/mappings:/wiremock/mappings/
+    - ./mockdata/:/wiremock/mappings/
 

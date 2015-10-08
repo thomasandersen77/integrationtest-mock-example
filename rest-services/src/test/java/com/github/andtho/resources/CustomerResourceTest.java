@@ -38,7 +38,6 @@ public class CustomerResourceTest extends JerseyTest {
 
     public CustomerResourceTest() {
         super(new InMemoryTestContainerFactory());
-        //set(TestProperties.DUMP_ENTITY, Boolean.TRUE);
         set(TestProperties.LOG_TRAFFIC, Boolean.TRUE);
     }
 
