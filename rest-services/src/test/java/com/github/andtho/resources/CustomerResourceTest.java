@@ -3,6 +3,7 @@ package com.github.andtho.resources;
 
 import com.github.andtho.BeanConfiguration;
 import com.github.andtho.HttpUtil;
+import com.github.tomakehurst.wiremock.WireMockServer;
 import com.github.tomakehurst.wiremock.client.WireMock;
 import com.github.tomakehurst.wiremock.core.WireMockConfiguration;
 import com.github.tomakehurst.wiremock.junit.WireMockRule;
@@ -16,6 +17,8 @@ import org.junit.runner.RunWith;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
 import javax.ws.rs.core.Application;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
@@ -28,6 +31,7 @@ import static org.junit.Assert.assertEquals;
 public class CustomerResourceTest extends JerseyTest {
 
     public static final int PORT_NUMBER = HttpUtil.dynamicPort();
+
     @Rule
     public WireMockRule wireMockRule = new WireMockRule(
             WireMockConfiguration.wireMockConfig().port(PORT_NUMBER).bindAddress("localhost"));
@@ -63,20 +67,22 @@ public class CustomerResourceTest extends JerseyTest {
                 .get(Response.class);
 
         assertEquals(200, response.getStatus());
+
+
     }
 
     private String customerJson() {
-        return "{" +
-                "      \"firstname\": \"thomas\"," +
-                "      \"lastname\" : \"andersen\"," +
-                "      \"address\" : [" +
-                "        {" +
-                "          \"street\" : \"stryken\"," +
-                "          \"number\" : 45," +
-                "          \"city\" : \"Hokksund\"" +
-                "        }" +
-                "      ]," +
-                "      \"single\" : true" +
+        return " {\n" +
+                "      \"firstname\": \"thomas\",\n" +
+                "      \"lastname\" : \"andersen\",\n" +
+                "      \"address\" :\n" +
+                "        {\n" +
+                "          \"street\" : \"stryken\",\n" +
+                "          \"number\" : 45,\n" +
+                "          \"city\" : \"Hokksund\"\n" +
+                "        }\n" +
+                "      ,\n" +
+                "      \"single\" : true\n" +
                 "    }";
     }
 }

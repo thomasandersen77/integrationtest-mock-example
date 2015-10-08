@@ -1,6 +1,6 @@
 package com.github.andtho;
 
-import com.github.andtho.config.ResourceLocator;
+import com.github.andtho.config.PropertyReader;
 import com.github.andtho.resources.CustomerResource;
 import com.github.andtho.resources.CustomerService;
 import lombok.extern.slf4j.Slf4j;
@@ -22,8 +22,8 @@ public class BeanConfiguration {
 
     @Bean
     @Singleton
-    public ResourceLocator resourceLocator() {
-        return new ResourceLocator();
+    public PropertyReader resourceLocator() {
+        return new PropertyReader();
     }
 
     @Bean

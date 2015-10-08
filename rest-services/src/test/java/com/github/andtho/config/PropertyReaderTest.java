@@ -11,13 +11,14 @@ import static org.junit.Assert.*;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = {BeanConfiguration.class})
-public class ResourceLocatorTest {
+public class PropertyReaderTest {
 
-    @Autowired ResourceLocator resourceLocator;
+    @Autowired
+    PropertyReader propertyReader;
 
     @Test
     public void testGetProperty() throws Exception {
-        String property = resourceLocator.getProperty("customer.service.url");
+        String property = propertyReader.getProperty("customer.service.url");
         assertNotNull(property);
         assertEquals("http://wiremock/customer", property);
     }
@@ -25,7 +26,7 @@ public class ResourceLocatorTest {
     @Test
     public void testGetEnvironmentProperty() throws Exception {
         System.setProperty("customer.service.url", "http://localhost");
-        String property = resourceLocator.getProperty("customer.service.url");
+        String property = propertyReader.getProperty("customer.service.url");
         assertNotNull(property);
         assertEquals("http://localhost", property);
     }

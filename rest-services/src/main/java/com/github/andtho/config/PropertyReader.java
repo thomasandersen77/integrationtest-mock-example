@@ -9,13 +9,13 @@ import java.util.Objects;
 import java.util.Properties;
 
 @Component
-public class ResourceLocator {
+public class PropertyReader {
     Properties properties;
 
-    public ResourceLocator() {
+    public PropertyReader() {
         try {
             this.properties = new Properties();
-            this.properties.load(ResourceLocator.class.getResourceAsStream("/application.properties"));
+            this.properties.load(PropertyReader.class.getResourceAsStream("/application.properties"));
         } catch (IOException e) {
             e.printStackTrace();
             throw new RuntimeException(e);

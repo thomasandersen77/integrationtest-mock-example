@@ -173,7 +173,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.github.andtho.MainAppConfiguration</mainClass>
+                    <mainClass>com.github.andtho.AppMain</mainClass>
                 </configuration>
                 <executions>
                     <execution>

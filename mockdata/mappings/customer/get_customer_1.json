@@ -8,13 +8,13 @@
     "jsonBody": {
       "firstname": "thomas",
       "lastname" : "andersen",
-      "address" : [
+      "address" :
         {
           "street" : "stryken",
           "number" : 45,
           "city" : "Hokksund"
         }
-      ],
+      ,
       "single" : true
     },
     "headers": {
