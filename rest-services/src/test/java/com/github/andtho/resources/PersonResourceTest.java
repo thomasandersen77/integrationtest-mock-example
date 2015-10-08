@@ -46,7 +46,7 @@ public class PersonResourceTest extends JerseyTest {
     }
 
     @Test
-    public void test_get_customer() throws Exception {
+    public void test_get_person_by_ssn() throws Exception {
         System.setProperty("personinfo.service.url", "http://localhost:"+PORT_NUMBER+"/personinfo");
 
         stubFor(get(urlEqualTo("/personinfo/09077745367"))
