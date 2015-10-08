@@ -1,8 +1,8 @@
 package com.github.andtho;
 
 import com.github.andtho.config.PropertyReader;
-import com.github.andtho.resources.CustomerResource;
-import com.github.andtho.resources.CustomerService;
+import com.github.andtho.resources.PersonResource;
+import com.github.andtho.resources.PersonService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.Bean;
@@ -22,7 +22,7 @@ public class BeanConfiguration {
 
     @Bean
     @Singleton
-    public PropertyReader resourceLocator() {
+    public PropertyReader propertyReader() {
         return new PropertyReader();
     }
 
@@ -32,15 +32,15 @@ public class BeanConfiguration {
     }
 
     @Bean
-    public CustomerResource customerResource(){
-        CustomerResource customerResource = new CustomerResource();
-        customerResource.setCustomerService(customerService());
-        return customerResource;
+    public PersonResource customerResource(){
+        PersonResource personResource = new PersonResource();
+        personResource.setPersonService(customerService());
+        return personResource;
     }
 
     @Bean
-    public CustomerService customerService(){
-        return new CustomerService();
+    public PersonService customerService(){
+        return new PersonService();
     }
 }
 

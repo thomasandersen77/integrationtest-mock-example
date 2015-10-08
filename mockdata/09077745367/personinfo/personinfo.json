@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/customer/1"
+    "urlPattern": "/personinfo/09077745367"
   },
   "response": {
     "status": 200,

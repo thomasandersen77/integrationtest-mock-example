@@ -1,6 +1,6 @@
 package com.github.andtho.resources;
 
-import com.github.andtho.domain.Customer;
+import com.github.andtho.domain.Person;
 import lombok.Setter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,18 +13,18 @@ import javax.ws.rs.Produces;
 
 @Slf4j
 @Component
-@Path("customer")
+@Path("person")
 @Produces("application/json")
-public class CustomerResource {
+public class PersonResource {
 
     @Autowired
-    @Setter private CustomerService customerService;
+    @Setter private PersonService personService;
 
     @GET
-    @Path("{customerId}")
-    public Customer getCustomer(@PathParam("customerId") String customerId) {
-        log.info("GET customer. ID={}", customerId);
-        return customerService.getCustomer(customerId);
+    @Path("{ssn}")
+    public Person getCustomer(@PathParam("ssn") String ssn) {
+        log.info("GET customer. ID={}", ssn);
+        return personService.getPerson(ssn);
     }
 
 }

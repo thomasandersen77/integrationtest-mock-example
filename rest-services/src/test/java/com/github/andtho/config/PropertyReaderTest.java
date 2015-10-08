@@ -18,15 +18,15 @@ public class PropertyReaderTest {
 
     @Test
     public void testGetProperty() throws Exception {
-        String property = propertyReader.getProperty("customer.service.url");
+        String property = propertyReader.getProperty("personinfo.service.url");
         assertNotNull(property);
-        assertEquals("http://wiremock/customer", property);
+        assertEquals("http://localhost:18080/personinfo", property);
     }
 
     @Test
     public void testGetEnvironmentProperty() throws Exception {
-        System.setProperty("customer.service.url", "http://localhost");
-        String property = propertyReader.getProperty("customer.service.url");
+        System.setProperty("personinfo.service.url", "http://localhost");
+        String property = propertyReader.getProperty("personinfo.service.url");
         assertNotNull(property);
         assertEquals("http://localhost", property);
     }
