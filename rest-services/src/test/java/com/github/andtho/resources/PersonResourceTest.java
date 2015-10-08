@@ -2,7 +2,8 @@ package com.github.andtho.resources;
 
 
 import com.github.andtho.BeanConfiguration;
-import com.github.andtho.HttpUtil;
+import com.github.andtho.config.HttpUtils;
+import com.github.andtho.domain.Person;
 import com.github.tomakehurst.wiremock.core.WireMockConfiguration;
 import com.github.tomakehurst.wiremock.junit.WireMockRule;
 import org.glassfish.jersey.server.ResourceConfig;
@@ -17,16 +18,16 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import javax.ws.rs.core.Application;
 import javax.ws.rs.core.MediaType;
-import javax.ws.rs.core.Response;
 
 import static com.github.tomakehurst.wiremock.client.WireMock.*;
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = {BeanConfiguration.class})
 public class PersonResourceTest extends JerseyTest {
 
-    public static final int PORT_NUMBER = HttpUtil.dynamicPort();
+    public static final int PORT_NUMBER = HttpUtils.dynamicPort();
 
     @Rule
     public WireMockRule wireMockRule = new WireMockRule(
@@ -56,13 +57,14 @@ public class PersonResourceTest extends JerseyTest {
                         .withHeader("Content-Type", "application/json")
                         .withBody(personJson())));
 
-        Response response = target("/person/09077745367")
+        Person person = target("/person/09077745367")
                 .request()
                 .accept(MediaType.APPLICATION_JSON_TYPE)
-                .get(Response.class);
+                .get(Person.class);
 
-        assertEquals(200, response.getStatus());
-
+        assertNotNull(person);
+        assertEquals("thomas", person.getFirstname());
+        assertEquals("09077745367", person.getSsn());
 
     }
 

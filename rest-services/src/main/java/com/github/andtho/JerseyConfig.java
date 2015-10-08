@@ -1,4 +1,4 @@
-package com.github.andtho.config;
+package com.github.andtho;
 
 import com.github.andtho.resources.PersonResource;
 import org.glassfish.jersey.server.ResourceConfig;
