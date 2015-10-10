@@ -1,0 +1,20 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/product"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody":
+      [
+        {"id" : "1", "name" : "IPad Mini",        "price" : 850},
+        {"id" : "2", "name" : "Bluetooth Speaker","price" : 20},
+        {"id" : "3", "name" : "PC Widescreen",    "price" : 157},
+        {"id" : "4", "name" : "Samsung S6",       "price" : 3450}
+      ]
+    ,
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

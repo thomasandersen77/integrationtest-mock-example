@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/product/2"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody":
+        {"id" : "2", "name" : "Bluetooth Speaker","price" : 20},
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

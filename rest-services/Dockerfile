@@ -7,5 +7,3 @@ ADD target/rest-services.jar     /source/
 EXPOSE 8080
 
 ENTRYPOINT ["java", "-jar", "rest-services.jar"]
-
-#ENTRYPOINT ["mvn", "spring-boot:run"]

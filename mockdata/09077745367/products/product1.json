@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/product/1"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody":
+        {"id" : "1", "name" : "IPad Mini",        "price" : 850},
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

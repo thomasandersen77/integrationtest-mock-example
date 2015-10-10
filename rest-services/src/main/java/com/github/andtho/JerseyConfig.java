@@ -1,6 +1,7 @@
 package com.github.andtho;
 
-import com.github.andtho.resources.PersonResource;
+import com.github.andtho.resources.CustomerResource;
+import com.github.andtho.resources.ProductResource;
 import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.stereotype.Component;
 
@@ -8,6 +9,7 @@ import org.springframework.stereotype.Component;
 public class JerseyConfig extends ResourceConfig {
 
     public JerseyConfig(){
-        register(PersonResource.class);
+        register(CustomerResource.class);
+        register(ProductResource.class);
     }
 }

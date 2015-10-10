@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/product/4"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody":
+      {"id" : "4", "name" : "Samsung S6",       "price" : 3450},
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

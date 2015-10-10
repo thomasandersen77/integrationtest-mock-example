@@ -1,14 +1,14 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/personinfo/09077745367"
+    "urlPattern": "/api/customerinfo/09077745367"
   },
   "response": {
     "status": 200,
     "jsonBody": {
       "firstname": "thomas",
       "lastname" : "andersen",
-      "ssn": "09077745367",
+      "customerId": "09077745367",
       "address" :
         {
           "street" : "stryken",

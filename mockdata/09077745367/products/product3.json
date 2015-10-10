@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/product/3"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody":
+        {"id" : "3", "name" : "PC Widescreen",    "price" : 157},
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
