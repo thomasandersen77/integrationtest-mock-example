@@ -4,7 +4,6 @@ restservices:
     - "8080:8080"
   links:
     - wiremock
-    - mongo
 
 wiremock:
   build: integrationmock
@@ -13,9 +12,3 @@ wiremock:
   volumes:
     - ./mockdata/:/wiremock/mappings/
 
-mongo:
-  build: mongodb
-  ports:
-    - "27017"
-  volumes:
-    - ./mongodb/data:/data/db

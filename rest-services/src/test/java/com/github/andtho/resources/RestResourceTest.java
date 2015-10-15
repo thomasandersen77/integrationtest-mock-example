@@ -23,8 +23,6 @@ import javax.ws.rs.core.Application;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import java.util.Optional;
-
 import static com.github.tomakehurst.wiremock.client.WireMock.*;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -72,7 +70,7 @@ public class RestResourceTest extends JerseyTest {
 
     @Test
     public void test_get_person_by_id() throws Exception {
-        stubFor(get(urlEqualTo("/api/customer/09077745367"))
+        stubFor(get(urlEqualTo("/api/customer/123456789"))
                 .withHeader("accept", equalTo("application/json"))
                 .willReturn(aResponse()
                         .withStatus(200)
@@ -89,7 +87,7 @@ public class RestResourceTest extends JerseyTest {
 
         log.info(JsonUtil.toJson(customer));
         assertEquals("thomas", customer.getFirstname());
-        assertEquals("09077745367", customer.getSsn());
+        assertEquals("123456789", customer.getSsn());
 
     }
 
@@ -116,7 +114,7 @@ public class RestResourceTest extends JerseyTest {
         return "{\n" +
                 "    \"firstname\": \"thomas\",\n" +
                 "    \"lastname\": \"andersen\",\n" +
-                "    \"ssn\": \"09077745367\",\n" +
+                "    \"ssn\": \"123456789\",\n" +
                 "    \"address\": {\n" +
                 "        \"street\": \"stryken\",\n" +
                 "        \"number\": 45,\n" +

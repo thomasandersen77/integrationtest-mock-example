@@ -18,7 +18,6 @@ import javax.ws.rs.client.Client;
 @ComponentScan(basePackages = "com.github.andtho")
 @EnableAutoConfiguration
 @PropertySource("classpath:application.properties")
-@EnableAspectJAutoProxy
 public class AppConfiguration {
 
     @Inject

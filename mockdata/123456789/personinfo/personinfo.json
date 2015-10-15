@@ -1,14 +1,14 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern":"folkeregistrert/api/customerinfo/09077745367"
+    "urlPattern":"/api/customer/123456789"
   },
   "response": {
     "status": 200,
     "jsonBody": {
       "firstname": "thomas",
       "lastname" : "andersen",
-      "customerId": "09077745367",
+      "ssn": "123456789",
       "address" :
         {
           "street" : "stryken",
