@@ -10,5 +10,5 @@ wiremock:
   ports:
     - "18080:8080"
   volumes:
-    - ./mockdata/:/wiremock/mappings/
+    - ./data/:/wiremock/mappings/
 

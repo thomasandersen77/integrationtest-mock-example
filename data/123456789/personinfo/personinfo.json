@@ -5,6 +5,7 @@
   },
   "response": {
     "status": 200,
+    "withFixedDelay": 1000,
     "jsonBody": {
       "firstname": "thomas",
       "lastname" : "andersen",

@@ -74,8 +74,33 @@ public class RestResourceTest extends JerseyTest {
                 .withHeader("accept", equalTo("application/json"))
                 .willReturn(aResponse()
                         .withStatus(200)
+                        .withFixedDelay(10000)
                         .withHeader("Content-Type", "application/json")
                         .withBody(personJson())));
+
+        @SuppressWarnings("unchecked")
+        Customer customer= target("/customer/123456789")
+                .request()
+                .accept(MediaType.APPLICATION_JSON_TYPE)
+                .get(Customer.class);
+
+        assertNotNull(customer);
+
+        log.info(JsonUtil.toJson(customer));
+        assertEquals("thomas", customer.getFirstname());
+        assertEquals("123456789", customer.getSsn());
+
+    }
+
+    @Test(expected = Exception.class)
+    public void test_get_person_by_id_missing_firstname() throws Exception {
+        stubFor(get(urlEqualTo("/api/customer/123456789"))
+                .withHeader("accept", equalTo("application/json"))
+                .willReturn(aResponse()
+
+                        .withStatus(200)
+                        .withHeader("Content-Type", "application/json")
+                        .withBody(personJson2())));
 
         @SuppressWarnings("unchecked")
         Customer customer= target("/customer/09077745367")
@@ -90,6 +115,7 @@ public class RestResourceTest extends JerseyTest {
         assertEquals("123456789", customer.getSsn());
 
     }
+
 
 
     @Override
@@ -113,6 +139,18 @@ public class RestResourceTest extends JerseyTest {
     private String personJson() {
         return "{\n" +
                 "    \"firstname\": \"thomas\",\n" +
+                "    \"lastname\": \"andersen\",\n" +
+                "    \"ssn\": \"123456789\",\n" +
+                "    \"address\": {\n" +
+                "        \"street\": \"stryken\",\n" +
+                "        \"number\": 45,\n" +
+                "        \"city\": \"Hokksund\"\n" +
+                "    }\n" +
+                "}";
+    }
+
+    private String personJson2() {
+        return "{\n" +
                 "    \"lastname\": \"andersen\",\n" +
                 "    \"ssn\": \"123456789\",\n" +
                 "    \"address\": {\n" +
