@@ -1,6 +1,6 @@
 # Integrationtest mock example
 
-A simple String application demonstrating the power of docker, docker-compose and wiremock in combination.
+A simple Spring application demonstrating the power of docker, docker-compose and wiremock in combination.
 
 ## Pre requisits
 Linux! And you need to have Docker, Docker Compose, Maven 3.x, Java 8 installed on your system to run this. They are all easy to Google, but in any case, here is a link: https://docs.docker.com/installation :) 
