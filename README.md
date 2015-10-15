@@ -29,4 +29,5 @@ The result should be a Json object like this:
         }
 }
 
+If you only want to start Wiremock, the command is 'docker-compose up wiremock' (this is the name defined for wiremock inside docker-compose.yml).
 
