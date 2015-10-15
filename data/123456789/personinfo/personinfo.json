@@ -12,9 +12,9 @@
       "ssn": "123456789",
       "address" :
         {
-          "street" : "stryken",
-          "number" : 45,
-          "city" : "Hokksund"
+          "street" : "street",
+          "number" : 1,
+          "city" : "Drammen"
         }
     },
     "headers": {
