@@ -10,4 +10,5 @@ public class Customer implements Serializable{
     private String lastname;
     private String ssn;
     private Address address;
+
 }

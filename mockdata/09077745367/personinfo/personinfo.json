@@ -1,7 +1,7 @@
 {
   "request": {
     "method": "GET",
-    "urlPattern": "/api/customerinfo/09077745367"
+    "urlPattern":"folkeregistrert/api/customerinfo/09077745367"
   },
   "response": {
     "status": 200,
@@ -21,3 +21,4 @@
     }
   }
 }
+

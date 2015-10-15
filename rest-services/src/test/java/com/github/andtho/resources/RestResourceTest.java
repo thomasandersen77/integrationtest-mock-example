@@ -80,16 +80,16 @@ public class RestResourceTest extends JerseyTest {
                         .withBody(personJson())));
 
         @SuppressWarnings("unchecked")
-        Optional<Customer> optionalReq= target("/customer/09077745367")
+        Customer customer= target("/customer/09077745367")
                 .request()
                 .accept(MediaType.APPLICATION_JSON_TYPE)
-                .get(Optional.class);
+                .get(Customer.class);
 
-        assertNotNull(optionalReq);
-        assertNotNull(optionalReq.get());
-        log.info(JsonUtil.toJson(optionalReq.get()));
-        //assertEquals("thomas", customer.get().getFirstname());
-        //assertEquals("09077745367", customer.get().getSsn());
+        assertNotNull(customer);
+
+        log.info(JsonUtil.toJson(customer));
+        assertEquals("thomas", customer.getFirstname());
+        assertEquals("09077745367", customer.getSsn());
 
     }
 

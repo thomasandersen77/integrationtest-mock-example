@@ -25,11 +25,11 @@ public class CustomerResource {
 
     @GET
     @Path("{customerId}")
-    public Optional<Customer> getCustomer(@PathParam("customerId") String ssn) throws NoContentException {
+    public Customer getCustomer(@PathParam("customerId") String ssn) throws NoContentException {
         log.info("GET customer. ID={}", ssn);
         Optional<Customer> customer = integrationService.getCustomer(ssn);
         if(customer.isPresent()) {
-            return customer;
+            return customer.get();
         } else {
             throw new NoContentException("No customer with id = " + ssn);
         }
@@ -37,10 +37,10 @@ public class CustomerResource {
 
 
     @GET
-    public Response getCustomers() throws NoContentException {
+    public List<Customer> getCustomers() throws NoContentException {
         Optional<List> optList = integrationService.getCustomerList();
         if(optList.isPresent()) {
-            return Response.ok(optList).build();
+            return (List<Customer>) optList.get();
         } else {
             throw new NoContentException("No customers");
         }
