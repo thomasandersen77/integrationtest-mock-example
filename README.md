@@ -5,6 +5,8 @@ A simple Spring application demonstrating the power of docker, docker-compose an
 ## Pre requisits
 Linux! And you need to have Docker, Docker Compose, Maven 3.x, Java 8 installed on your system to run this. They are all easy to Google, but in any case, here is a link: https://docs.docker.com/installation :) 
 
+You should also install the Lombok plugin for IntelliJ or else you will get compiler errors.
+
 ## Run project
 
 First you need to run 'mvn install' to generate rest-services.jar into target.
