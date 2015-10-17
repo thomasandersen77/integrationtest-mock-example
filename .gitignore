@@ -32,6 +32,9 @@
 *.ipr
 *.iws
 
+# Maven
+/target/
+
 ## Plugin-specific files:
 
 # IntelliJ

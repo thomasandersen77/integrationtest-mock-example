@@ -74,7 +74,6 @@ public class RestResourceTest extends JerseyTest {
                 .withHeader("accept", equalTo("application/json"))
                 .willReturn(aResponse()
                         .withStatus(200)
-                        .withFixedDelay(10000)
                         .withHeader("Content-Type", "application/json")
                         .withBody(personJson())));
 

@@ -9,7 +9,6 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.NoContentException;
-import java.util.List;
 import java.util.Optional;
 
 @Slf4j
@@ -27,9 +26,10 @@ public class ProductResource {
         Optional<Product> product = integrationService.getProduct(id);
         if(product.isPresent()) {
             return product.get();
-        } {
-            throw new NoContentException("Found no products with id = {}"+ id);
         }
+
+        throw new NoContentException("Found no products with id = {}"+ id);
+
     }
 
 }
