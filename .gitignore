@@ -35,6 +35,9 @@
 # Maven
 /target/
 
+# MongoDB volum
+/data
+
 ## Plugin-specific files:
 
 # IntelliJ
