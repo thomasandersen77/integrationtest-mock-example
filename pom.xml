@@ -10,11 +10,12 @@
     </parent>
 
     <groupId>com.github.andtho.testing</groupId>
-    <artifactId>integrationtest-mock-example</artifactId>
+    <artifactId>integrationtest-mock-example-parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
         <module>rest-services</module>
     </modules>
+
 </project>

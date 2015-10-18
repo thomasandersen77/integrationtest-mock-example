@@ -1,6 +1,6 @@
 package com.github.andtho.resources;
 
-import com.github.andtho.AppConfiguration;
+import com.github.andtho.config.AppConfiguration;
 import com.github.andtho.domain.Customer;
 import com.github.andtho.domain.Product;
 import lombok.Setter;

@@ -14,8 +14,7 @@ public class HttpUtils {
             @Cleanup ServerSocket serverSocket = new ServerSocket(0);
             return serverSocket.getLocalPort();
         } catch (IOException e) {
-            e.printStackTrace();
-            return -1;
+            throw new RuntimeException("Could not allocate port", e);
         }
     }
 }

@@ -1,5 +1,6 @@
 package com.github.andtho.resources;
 
+import com.github.andtho.config.HttpEnpoint;
 import com.github.andtho.domain.Product;
 import lombok.extern.slf4j.Slf4j;
 
@@ -9,10 +10,10 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.NoContentException;
-import java.util.List;
 import java.util.Optional;
 
 @Slf4j
+@HttpEnpoint
 @Path("product")
 @Produces("application/json")
 public class ProductResource {
@@ -27,9 +28,10 @@ public class ProductResource {
         Optional<Product> product = integrationService.getProduct(id);
         if(product.isPresent()) {
             return product.get();
-        } {
-            throw new NoContentException("Found no products with id = {}"+ id);
         }
+
+        throw new NoContentException("Found no products with id = {}"+ id);
+
     }
 
 }
