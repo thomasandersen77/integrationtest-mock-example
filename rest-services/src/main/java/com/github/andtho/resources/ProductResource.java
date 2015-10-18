@@ -1,5 +1,6 @@
 package com.github.andtho.resources;
 
+import com.github.andtho.config.HttpEnpoint;
 import com.github.andtho.domain.Product;
 import lombok.extern.slf4j.Slf4j;
 
@@ -12,6 +13,7 @@ import javax.ws.rs.core.NoContentException;
 import java.util.Optional;
 
 @Slf4j
+@HttpEnpoint
 @Path("product")
 @Produces("application/json")
 public class ProductResource {

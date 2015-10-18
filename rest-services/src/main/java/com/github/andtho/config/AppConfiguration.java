@@ -1,4 +1,4 @@
-package com.github.andtho;
+package com.github.andtho.config;
 
 import com.github.andtho.resources.CustomerResource;
 import com.github.andtho.resources.IntegrationService;

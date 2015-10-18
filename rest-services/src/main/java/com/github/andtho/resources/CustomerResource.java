@@ -1,5 +1,6 @@
 package com.github.andtho.resources;
 
+import com.github.andtho.config.HttpEnpoint;
 import com.github.andtho.domain.Customer;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,7 +16,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Slf4j
-@Component
+@HttpEnpoint
 @Path("customer")
 @Produces("application/json")
 public class CustomerResource {
