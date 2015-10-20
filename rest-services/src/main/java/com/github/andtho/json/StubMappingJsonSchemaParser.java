@@ -15,7 +15,7 @@ public class StubMappingJsonSchemaParser {
     JsonSchema getJsonSchema(Class clazz) throws IOException {
 
         ObjectSchema objectSchema = visitor.generateSchema(StubMapping.class).asObjectSchema();
-        objectSchema.putProperty("jsonBody", visitor.generateSchema(clazz).asObjectSchema());
+        objectSchema.putProperty(clazz.getSimpleName(), visitor.generateSchema(clazz).asObjectSchema());
         return objectSchema;
     }
 

@@ -3,6 +3,7 @@ package com.github.andtho.json;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.module.jsonSchema.JsonSchema;
 import com.github.andtho.domain.Customer;
+import com.github.andtho.domain.Product;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 
