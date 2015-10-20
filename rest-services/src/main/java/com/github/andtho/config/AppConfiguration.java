@@ -1,8 +1,7 @@
 package com.github.andtho.config;
 
-import com.github.andtho.resources.CustomerResource;
+import com.github.andtho.resources.StubMappingResource;
 import com.github.andtho.resources.IntegrationService;
-import com.github.andtho.resources.ProductResource;
 import lombok.extern.slf4j.Slf4j;
 import org.glassfish.jersey.client.JerseyClientBuilder;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -23,12 +22,8 @@ public class AppConfiguration {
     @Inject
     Environment environment;
 
-    public String getCustomerApi_url() {
-        return environment.getProperty("customer.api.url");
-    }
-
-    public String getProductApi_url() {
-        return environment.getProperty("product.api.url");
+    public String get_mapping_url() {
+        return environment.getProperty("mapping.api.url");
     }
 
     @Bean
@@ -37,13 +32,8 @@ public class AppConfiguration {
     }
 
     @Bean
-    public CustomerResource personResource(){
-        return new CustomerResource();
-    }
-
-    @Bean
-    public ProductResource productResource(){
-        return new ProductResource();
+    public StubMappingResource personResource(){
+        return new StubMappingResource();
     }
 
     @Bean

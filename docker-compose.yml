@@ -1,7 +1,7 @@
 restservices:
   build: rest-services
   ports:
-    - "80:8080"
+    - "8080:8080"
   links:
     - wiremock
     - mongodb
@@ -19,3 +19,18 @@ mongodb:
     - "27017"
   volumes:
     - ./data/mongo:/data/db
+
+
+editor:
+  build: mockdata-editor
+  ports:
+    - "80:80"
+  links:
+    - restservices
+  volumes:
+    - ./mockdata-editor/:/src
+
+
+ #docker run --name <frontend_server_name> -v <path_of_angualrjs_project>:/opt/angular
+ # --link <backend_server_name>:apiserver
+#  -P -d billlee/nginx-angular-devel

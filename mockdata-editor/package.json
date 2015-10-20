@@ -1,0 +1,10 @@
+{
+  "name": "json-editor-mockdata",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Json editor app on CentOS6 using docker",
+  "author": "Thomas Andersen (thomasa@bouvet.no)",
+  "dependencies": {
+    "express": "3.x"
+  }
+}

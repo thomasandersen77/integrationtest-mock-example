@@ -1,0 +1,30 @@
+{
+  "type" : "object",
+  "id" : "urn:jsonschema:com:github:andtho:domain:Customer",
+  "properties" : {
+    "firstname" : {
+      "type" : "string"
+    },
+    "lastname" : {
+      "type" : "string"
+    },
+    "ssn" : {
+      "type" : "string"
+    },
+    "address" : {
+      "type" : "object",
+      "id" : "urn:jsonschema:com:github:andtho:domain:Address",
+      "properties" : {
+        "street" : {
+          "type" : "string"
+        },
+        "number" : {
+          "type" : "integer"
+        },
+        "city" : {
+          "type" : "string"
+        }
+      }
+    }
+  }
+}
