@@ -1,0 +1,15 @@
+{
+  "path": "/kommunetjeneste/rest/kommuner/0301/bydeler/9",
+  "method": "GET",
+  "responseBody": {
+      "bydelsnummer": "9",
+      "bydelsnavn": "Bjerke",
+      "kontaktinfo": {
+        "telefonnummer": "02180",
+        "besoksadresse": "Økernveien 145",
+        "postadresse": "Postboks 13 Økern",
+        "postnummer": "0508",
+        "poststed": "OSLO"
+      }
+  }
+}

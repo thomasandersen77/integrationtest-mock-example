@@ -1,0 +1,19 @@
+{
+  "path": "/personregister/personopplysninger/01026300394",
+  "method": "GET",
+  "responseBody": { "fnr" : "01026300394",
+                    "fregOpplysninger" : {
+                      "fnr" : "01026300394",
+                      "fornavn": "Adrian",
+                      "etternavn": "Kvam",
+                      "adresse": {
+                        "adresse": "Postveien 12",
+                        "postnummer": "0165",
+                        "poststed": "Oslo"
+                      },
+                     "barnFodselsnummer": ["11069600362"]
+                    },
+                    "kontaktOpplysninger" : { "status" : "AKTIV", "mobil" : "+4798765324", "epost" : "adrian@kvam.no"}
+                   }
+}
+

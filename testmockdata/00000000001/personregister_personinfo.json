@@ -1,0 +1,15 @@
+{
+  "path": "/personregister/personopplysninger/30127528426",
+  "method": "GET",
+  "responseBody": { "fnr" : "30127528426",
+                    "fregOpplysninger" : {
+                      "fnr": "30127528426",
+                      "fornavn" : "Hanne",
+                      "etternavn" : "Myhre",
+                      "adresse" : { "adresse" : "Lech Waleza-plass 13", "postnummer" : "01265", "poststed" : "Lodz"},
+                      "barnFodselsnummer": []
+                    },
+                    "kontaktOpplysninger" : { "status" : "AKTIV", "mobil" : "+336585254859", "epost" : "hanne@myhre.no"}
+                   }
+}
+
