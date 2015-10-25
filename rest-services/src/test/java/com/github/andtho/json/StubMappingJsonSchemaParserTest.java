@@ -17,8 +17,10 @@ public class StubMappingJsonSchemaParserTest {
         StubMappingJsonSchemaParser pjp = new StubMappingJsonSchemaParser();
         JsonSchema jsonSchema = pjp.getJsonSchema(Customer.class);
         assertNotNull(jsonSchema);
-        String schemaAsString = new ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(jsonSchema);
-        assertNotNull(schemaAsString);
-        log.info("JSON Schema:\n{}", schemaAsString);
+
+        String schemaAsJson = pjp.getJsonSchemaAsJson(Customer.class);
+        assertNotNull(schemaAsJson);
+        assertTrue(schemaAsJson.contains("Customer"));
+        log.info(schemaAsJson);
     }
 }
