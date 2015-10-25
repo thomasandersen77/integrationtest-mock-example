@@ -1,0 +1,21 @@
+{
+  "path" : "/arbeidsforhold/01026300394",
+  "method" : "GET",
+  "responseBody" : [ {
+    "arbeidsgiversNavn" : "Telefan",
+    "orgNummer" : "12345678901",
+    "yrkesTittel" : "IT-Konsulent",
+    "yrkesKode" : "3",
+    "timeantall" : 37.5,
+    "startDato" : 1443437577493
+  }, {
+    "arbeidsgiversNavn" : "Balett AS",
+    "orgNummer" : "12345678901",
+    "yrkesTittel" : "Balettdanser",
+    "yrkesKode" : "0000000",
+    "timeantall" : 14,
+    "startDato" : 1443437577496,
+    "sluttDato" : 1443437577496
+  } ],
+  "status" : "200"
+}

@@ -1,0 +1,1659 @@
+{
+  "path" : "/matrikkel/rest/v1/adresse/0138/Elvestadveien",
+  "method" : "GET",
+  "responseBody" : [ {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 2,
+      "gardsnr" : 102,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 551,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148604916"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 101,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 500,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148610878"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 102,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 553,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "14828605"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 76,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611351"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 21,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 73,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611572"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 6,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 809,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "14831037"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 28,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 725,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "23393204"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 7,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 217,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603960"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 13,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 775,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605572"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 14,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 58,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611432"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 27,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 723,
+    "bokstav" : null,
+    "bruksenheter" : [ ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 5,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 807,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605769"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 25,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 837,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605785"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 4,
+      "gardsnr" : 93,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 89,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611688"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 791,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605696"
+    }, {
+      "bruksenhetsnummer" : "H0201",
+      "bygningsnummer" : "148605696"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 55,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 749,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605440"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 101,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 419,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148610169"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 9,
+      "gardsnr" : 103,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 659,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605084"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 35,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 771,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605513"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 42,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 811,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "14831347"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 12,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 142,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603774"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 15,
+      "gardsnr" : 110,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 871,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605874"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 35,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 683,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605181"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 53,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 715,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605335"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 85,
+      "gardsnr" : 92,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 63,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6541615"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 100,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 533,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148612935"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 101,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 502,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148610886"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 18,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 840,
+    "bokstav" : null,
+    "bruksenheter" : [ ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 24,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 80,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0201",
+      "bygningsnummer" : "148604568"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 2,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 223,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603936"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 8,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 83,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611653"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 25,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 721,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6545440"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 110,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 883,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148612374"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 63,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 717,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "14830847"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 6,
+      "gardsnr" : 111,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 958,
+    "bokstav" : null,
+    "bruksenheter" : [ ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 60,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 751,
+    "bokstav" : "A",
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "300301798"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 19,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 134,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148631379"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 60,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 751,
+    "bokstav" : "B",
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "U0101",
+      "bygningsnummer" : "300301798"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 7,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 87,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148626766"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 6,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 218,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603987"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 24,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 817,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605742"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 21,
+      "gardsnr" : 96,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 220,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148628009"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 23,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 773,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605556"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 36,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 751,
+    "bokstav" : "C",
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605475"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 30,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 719,
+    "bokstav" : null,
+    "bruksenheter" : [ ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 98,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 405,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148610150"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 33,
+      "gardsnr" : 113,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 990,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148606846"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 16,
+      "gardsnr" : 103,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 595,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605009"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 10,
+      "gardsnr" : 110,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 863,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605823"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 3,
+      "gardsnr" : 113,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 1000,
+    "bokstav" : null,
+    "bruksenheter" : [ ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 5,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 203,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603871"
+    }, {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603871"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 85,
+      "gardsnr" : 92,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 65,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6541615"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 101,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 377,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148610061"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 11,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 59,
+    "bokstav" : "A",
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611548"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 11,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 140,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603782"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 11,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 59,
+    "bokstav" : "B",
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "U0101",
+      "bygningsnummer" : "148611548"
+    }, {
+      "bruksenhetsnummer" : "U0101",
+      "bygningsnummer" : "148611548"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 9,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 767,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6544886"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 21,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 803,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605734"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 2,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 813,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148632588"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 793,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605688"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 78,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611335"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 16,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 132,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603804"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 6,
+      "gardsnr" : 113,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 989,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148607117"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 795,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605653"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 2,
+      "gardsnr" : 110,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 901,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "300480184"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 54,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 753,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605459"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 20,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 761,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605505"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 22,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 801,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605726"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 8,
+      "gardsnr" : 103,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 593,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6541054"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 41,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 739,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605386"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 32,
+      "gardsnr" : 113,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 992,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148632677"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 101,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 375,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6544428"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 44,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 743,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605432"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 2,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 82,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148604541"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 23,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 148,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "300121121"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 8,
+      "gardsnr" : 110,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 921,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148612277"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 61,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 713,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605289"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 13,
+      "gardsnr" : 103,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 641,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605017"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 6,
+      "gardsnr" : 110,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 931,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148612285"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 6,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 61,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611521"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 9,
+      "gardsnr" : 111,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 933,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148612315"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 13,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 124,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603812"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 7,
+      "gardsnr" : 103,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 661,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605092"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 111,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 963,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148612447"
+    }, {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148612447"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 44,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 805,
+    "bokstav" : "B",
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "300318246"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 2,
+      "gardsnr" : 98,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 403,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148610118"
+    }, {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "300139762"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 36,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 805,
+    "bokstav" : "A",
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605750"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 26,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 843,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605793"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 5,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 71,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611564"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 31,
+      "gardsnr" : 113,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 987,
+    "bokstav" : null,
+    "bruksenheter" : [ ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 37,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 735,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605408"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 28,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 797,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605718"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 85,
+      "gardsnr" : 92,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 67,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6541615"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 12,
+      "gardsnr" : 103,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 589,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148604983"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 17,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 777,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605599"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 111,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 961,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148612439"
+    }, {
+      "bruksenhetsnummer" : "H0201",
+      "bygningsnummer" : "148612439"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 38,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 737,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605394"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 102,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 555,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148604908"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 7,
+      "gardsnr" : 111,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 980,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148606811"
+    }, {
+      "bruksenhetsnummer" : "H0102",
+      "bygningsnummer" : "148606811"
+    }, {
+      "bruksenhetsnummer" : "H0201",
+      "bygningsnummer" : "148606811"
+    }, {
+      "bruksenhetsnummer" : "H0202",
+      "bygningsnummer" : "148606811"
+    }, {
+      "bruksenhetsnummer" : "U0101",
+      "bygningsnummer" : "148606811"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 58,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 747,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "300271577"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 98,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 407,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148610134"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 40,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 741,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605424"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 10,
+      "gardsnr" : 103,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 657,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6543073"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 13,
+      "gardsnr" : 111,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 964,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148606803"
+    }, {
+      "bruksenhetsnummer" : "H0201",
+      "bygningsnummer" : "148606803"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 8,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 135,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603863"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 2,
+      "gardsnr" : 100,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 531,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6542735"
+    }, {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148612927"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 14,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 763,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605483"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 4,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 731,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605297"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 14,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 664,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148606358"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 16,
+      "gardsnr" : 106,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 759,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605521"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 2,
+      "gardsnr" : 110,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 891,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6543294"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 27,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 845,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605807"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 9,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 81,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611629"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 34,
+      "gardsnr" : 107,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 769,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148605564"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 4,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 125,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603839"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 9,
+      "gardsnr" : 110,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 867,
+    "bokstav" : null,
+    "bruksenheter" : [ ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 12,
+      "gardsnr" : 94,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 75,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148611602"
+    } ]
+  } ],
+  "status" : "200"
+}

@@ -1,0 +1,16 @@
+{
+  "path": "/kommunetjeneste/rest/kommuner/0301",
+  "method": "GET",
+  "responseBody": {
+      "kommunenummer": "0301",
+      "kommunenavn": "Oslo",
+      "harBydeler": true,
+      "kontaktinfo": {
+      "telefonnummer": "02180",
+      "besoksadresse": "Rådhuset",
+      "postadresse": "Rådhuset",
+      "postnummer": "0037",
+      "poststed": "OSLO"
+    }
+  }
+}

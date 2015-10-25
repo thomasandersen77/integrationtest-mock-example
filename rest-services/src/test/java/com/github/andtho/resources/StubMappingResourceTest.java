@@ -2,6 +2,7 @@ package com.github.andtho.resources;
 
 
 import com.github.andtho.TestBase;
+import com.github.andtho.domain.Address;
 import com.github.andtho.domain.Customer;
 import com.github.andtho.json.Request;
 import com.github.andtho.json.Response;
@@ -78,9 +79,11 @@ public class StubMappingResourceTest extends TestBase {
     }
 
     private String mapping() {
-        Customer customer = new Customer();
-        customer.setFirstname("thomas");
-        customer.setLastname("andersen");
+        Customer customer = Customer.builder()
+        .firstname("thomas")
+        .lastname("andersen")
+        .ssn("123456789")
+        .address(Address.builder().city("Hokksund").number(45).street("Eiker boulevard").build()).build();
         @SuppressWarnings("unchecked")
         StubMapping mapping = StubMapping.builder()
                 .request(Request.

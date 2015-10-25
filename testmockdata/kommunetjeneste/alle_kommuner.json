@@ -1,0 +1,2199 @@
+{
+  "path": "/kommunetjeneste/rest/kommuner",
+  "method": "GET",
+  "responseBody": [
+    {
+      "kommunenummer": "0101",
+      "kommunenavn": "Halden",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0104",
+      "kommunenavn": "Moss",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0105",
+      "kommunenavn": "Sarpsborg",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0106",
+      "kommunenavn": "Fredrikstad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0111",
+      "kommunenavn": "Hvaler",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0118",
+      "kommunenavn": "Aremark",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0119",
+      "kommunenavn": "Marker",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0121",
+      "kommunenavn": "Rømskog",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0122",
+      "kommunenavn": "Trøgstad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0123",
+      "kommunenavn": "Spydeberg",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0124",
+      "kommunenavn": "Askim",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0125",
+      "kommunenavn": "Eidsberg",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0127",
+      "kommunenavn": "Skiptvet",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0128",
+      "kommunenavn": "Rakkestad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0135",
+      "kommunenavn": "Råde",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0136",
+      "kommunenavn": "Rygge",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0137",
+      "kommunenavn": "Våler",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "01",
+        "fylkesnavn": "Østfold"
+      }
+    },
+    {
+      "kommunenummer": "0138",
+      "kommunenavn": "Hobøl",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0211",
+      "kommunenavn": "Vestby",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0213",
+      "kommunenavn": "Ski",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0214",
+      "kommunenavn": "Ås",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0215",
+      "kommunenavn": "Frogn",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0216",
+      "kommunenavn": "Nesodden",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0217",
+      "kommunenavn": "Oppegård",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0219",
+      "kommunenavn": "Bærum",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0220",
+      "kommunenavn": "Asker",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0221",
+      "kommunenavn": "Aurskog-Høland",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0226",
+      "kommunenavn": "Sørum",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0227",
+      "kommunenavn": "Fet",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0228",
+      "kommunenavn": "Rælingen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0229",
+      "kommunenavn": "Enebakk",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0230",
+      "kommunenavn": "Lørenskog",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0231",
+      "kommunenavn": "Skedsmo",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0233",
+      "kommunenavn": "Nittedal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0234",
+      "kommunenavn": "Gjerdrum",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0235",
+      "kommunenavn": "Ullensaker",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0236",
+      "kommunenavn": "Nes",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "02",
+        "fylkesnavn": "Akershus"
+      }
+    },
+    {
+      "kommunenummer": "0237",
+      "kommunenavn": "Eidsvoll",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0238",
+      "kommunenavn": "Nannestad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0239",
+      "kommunenavn": "Hurdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0301",
+      "kommunenavn": "Oslo",
+      "harBydeler": true
+    },
+    {
+      "kommunenummer": "0402",
+      "kommunenavn": "Kongsvinger",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0403",
+      "kommunenavn": "Hamar",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0412",
+      "kommunenavn": "Ringsaker",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0415",
+      "kommunenavn": "Løten",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0417",
+      "kommunenavn": "Stange",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0418",
+      "kommunenavn": "Nord-Odal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0419",
+      "kommunenavn": "Sør-Odal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0420",
+      "kommunenavn": "Eidskog",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0423",
+      "kommunenavn": "Grue",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0425",
+      "kommunenavn": "Åsnes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0426",
+      "kommunenavn": "Våler",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "04",
+        "fylkesnavn": "Hedmark"
+      }
+    },
+    {
+      "kommunenummer": "0427",
+      "kommunenavn": "Elverum",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0428",
+      "kommunenavn": "Trysil",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0429",
+      "kommunenavn": "Åmot",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0430",
+      "kommunenavn": "Stor-Elvdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0432",
+      "kommunenavn": "Rendalen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0434",
+      "kommunenavn": "Engerdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0436",
+      "kommunenavn": "Tolga",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0437",
+      "kommunenavn": "Tynset",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0438",
+      "kommunenavn": "Alvdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0439",
+      "kommunenavn": "Folldal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0441",
+      "kommunenavn": "Os",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "04",
+        "fylkesnavn": "Hedmark"
+      }
+    },
+    {
+      "kommunenummer": "0501",
+      "kommunenavn": "Lillehammer",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0502",
+      "kommunenavn": "Gjøvik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0511",
+      "kommunenavn": "Dovre",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0512",
+      "kommunenavn": "Lesja",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0513",
+      "kommunenavn": "Skjåk",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0514",
+      "kommunenavn": "Lom",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0515",
+      "kommunenavn": "Vågå",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0516",
+      "kommunenavn": "Nord-Fron",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0517",
+      "kommunenavn": "Sel",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0519",
+      "kommunenavn": "Sør-Fron",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0520",
+      "kommunenavn": "Ringebu",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0521",
+      "kommunenavn": "Øyer",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0522",
+      "kommunenavn": "Gausdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0528",
+      "kommunenavn": "Østre Toten",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0529",
+      "kommunenavn": "Vestre Toten",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0532",
+      "kommunenavn": "Jevnaker",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0533",
+      "kommunenavn": "Lunner",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0534",
+      "kommunenavn": "Gran",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0536",
+      "kommunenavn": "Søndre Land",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0538",
+      "kommunenavn": "Nordre Land",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0540",
+      "kommunenavn": "Sør-Aurdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0541",
+      "kommunenavn": "Etnedal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0542",
+      "kommunenavn": "Nord-Aurdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0543",
+      "kommunenavn": "Vestre Slidre",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0544",
+      "kommunenavn": "Øystre Slidre",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0545",
+      "kommunenavn": "Vang",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0602",
+      "kommunenavn": "Drammen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0604",
+      "kommunenavn": "Kongsberg",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0605",
+      "kommunenavn": "Ringerike",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0612",
+      "kommunenavn": "Hole",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0615",
+      "kommunenavn": "Flå",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0616",
+      "kommunenavn": "Nes",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "06",
+        "fylkesnavn": "Buskerud"
+      }
+    },
+    {
+      "kommunenummer": "0617",
+      "kommunenavn": "Gol",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0618",
+      "kommunenavn": "Hemsedal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0619",
+      "kommunenavn": "Ål",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0620",
+      "kommunenavn": "Hol",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0621",
+      "kommunenavn": "Sigdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0622",
+      "kommunenavn": "Krødsherad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0623",
+      "kommunenavn": "Modum",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0624",
+      "kommunenavn": "Øvre Eiker",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0625",
+      "kommunenavn": "Nedre Eiker",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0626",
+      "kommunenavn": "Lier",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0627",
+      "kommunenavn": "Røyken",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0628",
+      "kommunenavn": "Hurum",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0631",
+      "kommunenavn": "Flesberg",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0632",
+      "kommunenavn": "Rollag",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0633",
+      "kommunenavn": "Nore og Uvdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0701",
+      "kommunenavn": "Horten",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0702",
+      "kommunenavn": "Holmestrand",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0704",
+      "kommunenavn": "Tønsberg",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0706",
+      "kommunenavn": "Sandefjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0709",
+      "kommunenavn": "Larvik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0711",
+      "kommunenavn": "Svelvik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0713",
+      "kommunenavn": "Sande",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "07",
+        "fylkesnavn": "Vestfold"
+      }
+    },
+    {
+      "kommunenummer": "0714",
+      "kommunenavn": "Hof",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0716",
+      "kommunenavn": "Re",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0719",
+      "kommunenavn": "Andebu",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0720",
+      "kommunenavn": "Stokke",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0722",
+      "kommunenavn": "Nøtterøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0723",
+      "kommunenavn": "Tjøme",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0728",
+      "kommunenavn": "Lardal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0805",
+      "kommunenavn": "Porsgrunn",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0806",
+      "kommunenavn": "Skien",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0807",
+      "kommunenavn": "Notodden",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0811",
+      "kommunenavn": "Siljan",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0814",
+      "kommunenavn": "Bamble",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0815",
+      "kommunenavn": "Kragerø",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0817",
+      "kommunenavn": "Drangedal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0819",
+      "kommunenavn": "Nome",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0821",
+      "kommunenavn": "Bø",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "08",
+        "fylkesnavn": "Telemark"
+      }
+    },
+    {
+      "kommunenummer": "0822",
+      "kommunenavn": "Sauherad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0826",
+      "kommunenavn": "Tinn",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0827",
+      "kommunenavn": "Hjartdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0828",
+      "kommunenavn": "Seljord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0829",
+      "kommunenavn": "Kviteseid",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0830",
+      "kommunenavn": "Nissedal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0831",
+      "kommunenavn": "Fyresdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0833",
+      "kommunenavn": "Tokke",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0834",
+      "kommunenavn": "Vinje",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0901",
+      "kommunenavn": "Risør",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0904",
+      "kommunenavn": "Grimstad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0906",
+      "kommunenavn": "Arendal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0911",
+      "kommunenavn": "Gjerstad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0912",
+      "kommunenavn": "Vegårshei",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0914",
+      "kommunenavn": "Tvedestrand",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0919",
+      "kommunenavn": "Froland",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0926",
+      "kommunenavn": "Lillesand",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0928",
+      "kommunenavn": "Birkenes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0929",
+      "kommunenavn": "Åmli",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0935",
+      "kommunenavn": "Iveland",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0937",
+      "kommunenavn": "Evje og Hornnes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0938",
+      "kommunenavn": "Bygland",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0940",
+      "kommunenavn": "Valle",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "0941",
+      "kommunenavn": "Bykle",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1001",
+      "kommunenavn": "Kristiansand",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1002",
+      "kommunenavn": "Mandal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1003",
+      "kommunenavn": "Farsund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1004",
+      "kommunenavn": "Flekkefjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1014",
+      "kommunenavn": "Vennesla",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1017",
+      "kommunenavn": "Songdalen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1018",
+      "kommunenavn": "Søgne",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1021",
+      "kommunenavn": "Marnardal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1026",
+      "kommunenavn": "Åseral",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1027",
+      "kommunenavn": "Audnedal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1029",
+      "kommunenavn": "Lindesnes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1032",
+      "kommunenavn": "Lyngdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1034",
+      "kommunenavn": "Hægebostad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1037",
+      "kommunenavn": "Kvinesdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1046",
+      "kommunenavn": "Sirdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1101",
+      "kommunenavn": "Eigersund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1102",
+      "kommunenavn": "Sandnes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1103",
+      "kommunenavn": "Stavanger",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1106",
+      "kommunenavn": "Haugesund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1111",
+      "kommunenavn": "Sokndal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1112",
+      "kommunenavn": "Lund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1114",
+      "kommunenavn": "Bjerkreim",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1119",
+      "kommunenavn": "Hå",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1120",
+      "kommunenavn": "Klepp",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1121",
+      "kommunenavn": "Time",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1122",
+      "kommunenavn": "Gjesdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1124",
+      "kommunenavn": "Sola",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1127",
+      "kommunenavn": "Randaberg",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1129",
+      "kommunenavn": "Forsand",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1130",
+      "kommunenavn": "Strand",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1133",
+      "kommunenavn": "Hjelmeland",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1134",
+      "kommunenavn": "Suldal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1135",
+      "kommunenavn": "Sauda",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1141",
+      "kommunenavn": "Finnøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1142",
+      "kommunenavn": "Rennesøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1144",
+      "kommunenavn": "Kvitsøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1145",
+      "kommunenavn": "Bokn",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1146",
+      "kommunenavn": "Tysvær",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1149",
+      "kommunenavn": "Karmøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1151",
+      "kommunenavn": "Utsira",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1160",
+      "kommunenavn": "Vindafjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1201",
+      "kommunenavn": "Bergen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1211",
+      "kommunenavn": "Etne",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1216",
+      "kommunenavn": "Sveio",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1219",
+      "kommunenavn": "Bømlo",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1221",
+      "kommunenavn": "Stord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1222",
+      "kommunenavn": "Fitjar",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1223",
+      "kommunenavn": "Tysnes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1224",
+      "kommunenavn": "Kvinnherad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1227",
+      "kommunenavn": "Jondal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1228",
+      "kommunenavn": "Odda",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1231",
+      "kommunenavn": "Ullensvang herad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1232",
+      "kommunenavn": "Eidfjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1233",
+      "kommunenavn": "Ulvik herad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1234",
+      "kommunenavn": "Granvin herad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1235",
+      "kommunenavn": "Voss",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1238",
+      "kommunenavn": "Kvam herad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1241",
+      "kommunenavn": "Fusa",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1242",
+      "kommunenavn": "Samnanger",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1243",
+      "kommunenavn": "Os",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "12",
+        "fylkesnavn": "Hordaland"
+      }
+    },
+    {
+      "kommunenummer": "1244",
+      "kommunenavn": "Austevoll",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1245",
+      "kommunenavn": "Sund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1246",
+      "kommunenavn": "Fjell",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1247",
+      "kommunenavn": "Askøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1251",
+      "kommunenavn": "Vaksdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1252",
+      "kommunenavn": "Modalen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1253",
+      "kommunenavn": "Osterøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1256",
+      "kommunenavn": "Meland",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1259",
+      "kommunenavn": "Øygarden",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1260",
+      "kommunenavn": "Radøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1263",
+      "kommunenavn": "Lindås",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1264",
+      "kommunenavn": "Austrheim",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1265",
+      "kommunenavn": "Fedje",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1266",
+      "kommunenavn": "Masfjorden",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1401",
+      "kommunenavn": "Flora",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1411",
+      "kommunenavn": "Gulen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1412",
+      "kommunenavn": "Solund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1413",
+      "kommunenavn": "Hyllestad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1416",
+      "kommunenavn": "Høyanger",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1417",
+      "kommunenavn": "Vik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1418",
+      "kommunenavn": "Balestrand",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1419",
+      "kommunenavn": "Leikanger",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1420",
+      "kommunenavn": "Sogndal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1421",
+      "kommunenavn": "Aurland",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1422",
+      "kommunenavn": "Lærdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1424",
+      "kommunenavn": "Årdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1426",
+      "kommunenavn": "Luster",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1428",
+      "kommunenavn": "Askvoll",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1429",
+      "kommunenavn": "Fjaler",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1430",
+      "kommunenavn": "Gaular",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1431",
+      "kommunenavn": "Jølster",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1432",
+      "kommunenavn": "Førde",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1433",
+      "kommunenavn": "Naustdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1438",
+      "kommunenavn": "Bremanger",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1439",
+      "kommunenavn": "Vågsøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1441",
+      "kommunenavn": "Selje",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1443",
+      "kommunenavn": "Eid",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1444",
+      "kommunenavn": "Hornindal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1445",
+      "kommunenavn": "Gloppen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1449",
+      "kommunenavn": "Stryn",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1502",
+      "kommunenavn": "Molde",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1504",
+      "kommunenavn": "Ålesund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1505",
+      "kommunenavn": "Kristiansund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1511",
+      "kommunenavn": "Vanylven",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1514",
+      "kommunenavn": "Sande",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "15",
+        "fylkesnavn": "Møre og Romsdal"
+      }
+    },
+    {
+      "kommunenummer": "1515",
+      "kommunenavn": "Herøy",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "15",
+        "fylkesnavn": "Møre og Romsdal"
+      }
+    },
+    {
+      "kommunenummer": "1516",
+      "kommunenavn": "Ulstein",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1517",
+      "kommunenavn": "Hareid",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1519",
+      "kommunenavn": "Volda",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1520",
+      "kommunenavn": "Ørsta",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1523",
+      "kommunenavn": "Ørskog",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1524",
+      "kommunenavn": "Norddal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1525",
+      "kommunenavn": "Stranda",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1526",
+      "kommunenavn": "Stordal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1528",
+      "kommunenavn": "Sykkylven",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1529",
+      "kommunenavn": "Skodje",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1531",
+      "kommunenavn": "Sula",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1532",
+      "kommunenavn": "Giske",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1534",
+      "kommunenavn": "Haram",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1535",
+      "kommunenavn": "Vestnes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1539",
+      "kommunenavn": "Rauma",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1543",
+      "kommunenavn": "Nesset",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1545",
+      "kommunenavn": "Midsund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1546",
+      "kommunenavn": "Sandøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1547",
+      "kommunenavn": "Aukra",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1548",
+      "kommunenavn": "Fræna",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1551",
+      "kommunenavn": "Eide",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1554",
+      "kommunenavn": "Averøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1557",
+      "kommunenavn": "Gjemnes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1560",
+      "kommunenavn": "Tingvoll",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1563",
+      "kommunenavn": "Sunndal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1566",
+      "kommunenavn": "Surnadal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1567",
+      "kommunenavn": "Rindal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1571",
+      "kommunenavn": "Halsa",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1573",
+      "kommunenavn": "Smøla",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1576",
+      "kommunenavn": "Aure",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1601",
+      "kommunenavn": "Trondheim",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1612",
+      "kommunenavn": "Hemne",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1613",
+      "kommunenavn": "Snillfjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1617",
+      "kommunenavn": "Hitra",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1620",
+      "kommunenavn": "Frøya",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1621",
+      "kommunenavn": "Ørland",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1622",
+      "kommunenavn": "Agdenes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1624",
+      "kommunenavn": "Rissa",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1627",
+      "kommunenavn": "Bjugn",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1630",
+      "kommunenavn": "Åfjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1632",
+      "kommunenavn": "Roan",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1633",
+      "kommunenavn": "Osen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1634",
+      "kommunenavn": "Oppdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1635",
+      "kommunenavn": "Rennebu",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1636",
+      "kommunenavn": "Meldal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1638",
+      "kommunenavn": "Orkdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1640",
+      "kommunenavn": "Røros",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1644",
+      "kommunenavn": "Holtålen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1648",
+      "kommunenavn": "Midtre Gauldal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1653",
+      "kommunenavn": "Melhus",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1657",
+      "kommunenavn": "Skaun",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1662",
+      "kommunenavn": "Klæbu",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1663",
+      "kommunenavn": "Malvik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1664",
+      "kommunenavn": "Selbu",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1665",
+      "kommunenavn": "Tydal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1702",
+      "kommunenavn": "Steinkjer",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1703",
+      "kommunenavn": "Namsos",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1711",
+      "kommunenavn": "Meråker",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1714",
+      "kommunenavn": "Stjørdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1717",
+      "kommunenavn": "Frosta",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1718",
+      "kommunenavn": "Leksvik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1719",
+      "kommunenavn": "Levanger",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1721",
+      "kommunenavn": "Verdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1724",
+      "kommunenavn": "Verran",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1725",
+      "kommunenavn": "Namdalseid",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1736",
+      "kommunenavn": "Snåsa",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1738",
+      "kommunenavn": "Lierne",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1739",
+      "kommunenavn": "Røyrvik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1740",
+      "kommunenavn": "Namsskogan",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1742",
+      "kommunenavn": "Grong",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1743",
+      "kommunenavn": "Høylandet",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1744",
+      "kommunenavn": "Overhalla",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1748",
+      "kommunenavn": "Fosnes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1749",
+      "kommunenavn": "Flatanger",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1750",
+      "kommunenavn": "Vikna",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1751",
+      "kommunenavn": "Nærøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1755",
+      "kommunenavn": "Leka",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1756",
+      "kommunenavn": "Inderøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1804",
+      "kommunenavn": "Bodø",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1805",
+      "kommunenavn": "Narvik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1811",
+      "kommunenavn": "Bindal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1812",
+      "kommunenavn": "Sømna",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1813",
+      "kommunenavn": "Brønnøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1815",
+      "kommunenavn": "Vega",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1816",
+      "kommunenavn": "Vevelstad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1818",
+      "kommunenavn": "Herøy",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "18",
+        "fylkesnavn": "Nordland"
+      }
+    },
+    {
+      "kommunenummer": "1820",
+      "kommunenavn": "Alstahaug",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1822",
+      "kommunenavn": "Leirfjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1824",
+      "kommunenavn": "Vefsn",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1825",
+      "kommunenavn": "Grane",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1826",
+      "kommunenavn": "Hattfjelldal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1827",
+      "kommunenavn": "Dønna",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1828",
+      "kommunenavn": "Nesna",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1832",
+      "kommunenavn": "Hemnes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1833",
+      "kommunenavn": "Rana",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1834",
+      "kommunenavn": "Lurøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1835",
+      "kommunenavn": "Træna",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1836",
+      "kommunenavn": "Rødøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1837",
+      "kommunenavn": "Meløy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1838",
+      "kommunenavn": "Gildeskål",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1839",
+      "kommunenavn": "Beiarn",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1840",
+      "kommunenavn": "Saltdal",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1841",
+      "kommunenavn": "Fauske",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1845",
+      "kommunenavn": "Sørfold",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1848",
+      "kommunenavn": "Steigen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1849",
+      "kommunenavn": "Hamarøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1850",
+      "kommunenavn": "Tysfjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1851",
+      "kommunenavn": "Lødingen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1852",
+      "kommunenavn": "Tjeldsund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1853",
+      "kommunenavn": "Evenes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1854",
+      "kommunenavn": "Ballangen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1856",
+      "kommunenavn": "Røst",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1857",
+      "kommunenavn": "Værøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1859",
+      "kommunenavn": "Flakstad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1860",
+      "kommunenavn": "Vestvågøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1865",
+      "kommunenavn": "Vågan",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1866",
+      "kommunenavn": "Hadsel",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1867",
+      "kommunenavn": "Bø",
+      "harBydeler": false,
+      "fylke": {
+        "fylkesnummer": "18",
+        "fylkesnavn": "Nordland"
+      }
+    },
+    {
+      "kommunenummer": "1868",
+      "kommunenavn": "Øksnes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1870",
+      "kommunenavn": "Sortland",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1871",
+      "kommunenavn": "Andøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1874",
+      "kommunenavn": "Moskenes",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1902",
+      "kommunenavn": "Tromsø",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1903",
+      "kommunenavn": "Harstad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1911",
+      "kommunenavn": "Kvæfjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1913",
+      "kommunenavn": "Skånland",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1917",
+      "kommunenavn": "Ibestad",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1919",
+      "kommunenavn": "Gratangen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1920",
+      "kommunenavn": "Lavangen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1922",
+      "kommunenavn": "Bardu",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1923",
+      "kommunenavn": "Salangen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1924",
+      "kommunenavn": "Målselv",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1925",
+      "kommunenavn": "Sørreisa",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1926",
+      "kommunenavn": "Dyrøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1927",
+      "kommunenavn": "Tranøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1928",
+      "kommunenavn": "Torsken",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1929",
+      "kommunenavn": "Berg",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1931",
+      "kommunenavn": "Lenvik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1933",
+      "kommunenavn": "Balsfjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1936",
+      "kommunenavn": "Karlsøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1938",
+      "kommunenavn": "Lyngen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1939",
+      "kommunenavn": "Storfjord / Omasvouna souhkan",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1940",
+      "kommunenavn": "Kåfjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1941",
+      "kommunenavn": "Skjervøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1942",
+      "kommunenavn": "Nordreisa",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "1943",
+      "kommunenavn": "Kvænangen",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2002",
+      "kommunenavn": "Vardø",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2003",
+      "kommunenavn": "Vadsø",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2004",
+      "kommunenavn": "Hammerfest",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2011",
+      "kommunenavn": "Kautokeino",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2012",
+      "kommunenavn": "Alta",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2014",
+      "kommunenavn": "Loppa",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2015",
+      "kommunenavn": "Hasvik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2017",
+      "kommunenavn": "Kvalsund",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2018",
+      "kommunenavn": "Måsøy",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2019",
+      "kommunenavn": "Nordkapp",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2020",
+      "kommunenavn": "Porsanger",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2021",
+      "kommunenavn": "Karasjok",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2022",
+      "kommunenavn": "Lebesby",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2023",
+      "kommunenavn": "Gamvik",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2024",
+      "kommunenavn": "Berlevåg",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2025",
+      "kommunenavn": "Tana",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2027",
+      "kommunenavn": "Nesseby",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2028",
+      "kommunenavn": "Båtsfjord",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2030",
+      "kommunenavn": "Sør-Varanger",
+      "harBydeler": false
+    },
+    {
+      "kommunenummer": "2111",
+      "kommunenavn": "Longyearbyen lokalstyre",
+      "harBydeler": false
+    }
+  ]
+}

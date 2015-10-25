@@ -1,0 +1,66 @@
+{
+  "path": "/kommunetjeneste/rest/kommuner/0301/bydeler",
+  "method": "GET",
+  "responseBody": [
+    {
+      "bydelsnummer": "1",
+      "bydelsnavn": "Gamle Oslo"
+    },
+    {
+      "bydelsnummer": "2",
+      "bydelsnavn": "Grünerløkka"
+    },
+    {
+      "bydelsnummer": "3",
+      "bydelsnavn": "Sagene"
+    },
+    {
+      "bydelsnummer": "4",
+      "bydelsnavn": "St. Hanshaugen"
+    },
+    {
+      "bydelsnummer": "5",
+      "bydelsnavn": "Frogner"
+    },
+    {
+      "bydelsnummer": "6",
+      "bydelsnavn": "Ullern"
+    },
+    {
+      "bydelsnummer": "7",
+      "bydelsnavn": "Vestre Aker"
+    },
+    {
+      "bydelsnummer": "8",
+      "bydelsnavn": "Nordre Aker"
+    },
+    {
+      "bydelsnummer": "9",
+      "bydelsnavn": "Bjerke"
+    },
+    {
+      "bydelsnummer": "10",
+      "bydelsnavn": "Grorud"
+    },
+    {
+      "bydelsnummer": "11",
+      "bydelsnavn": "Stovner"
+    },
+    {
+      "bydelsnummer": "12",
+      "bydelsnavn": "Alna"
+    },
+    {
+      "bydelsnummer": "13",
+      "bydelsnavn": "Østensjø"
+    },
+    {
+      "bydelsnummer": "14",
+      "bydelsnavn": "Nordstrand"
+    },
+    {
+      "bydelsnummer": "15",
+      "bydelsnavn": "Søndre Nordstrand"
+    }
+  ]
+}

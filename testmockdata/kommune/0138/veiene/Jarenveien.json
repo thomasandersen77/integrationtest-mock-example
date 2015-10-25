@@ -1,0 +1,135 @@
+{
+  "path" : "/matrikkel/rest/v1/adresse/0138/Jarenveien",
+  "method" : "GET",
+  "responseBody" : [ {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 21,
+      "gardsnr" : 18,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 26,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148626340"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 25,
+      "gardsnr" : 18,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 45,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148626367"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 21,
+      "gardsnr" : 18,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 24,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148626332"
+    }, {
+      "bruksenhetsnummer" : "U0101",
+      "bygningsnummer" : "148626332"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 5,
+      "gardsnr" : 18,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 12,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148626286"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 5,
+      "gardsnr" : 17,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 2,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148626197"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 21,
+      "gardsnr" : 17,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 5,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148626723"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 6,
+      "gardsnr" : 18,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 16,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148626316"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 24,
+      "gardsnr" : 18,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 27,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148626359"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 4,
+      "gardsnr" : 18,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 8,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148626251"
+    } ]
+  } ],
+  "status" : "200"
+}

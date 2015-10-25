@@ -1,0 +1,146 @@
+{
+  "path" : "/matrikkel/rest/v1/adresse/0138/Saxeb%C3%B8lveien",
+  "method" : "GET",
+  "responseBody" : [ {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 16,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 6,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603723"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 17,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 14,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603707"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 3,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 39,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603588"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 9,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 1,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603766"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 13,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 11,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603715"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 15,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 7,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603731"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 4,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 91,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603596"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 14,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 5,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603758"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 4,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 87,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "6543448"
+    } ]
+  }, {
+    "matrikkelenhentIdent" : {
+      "bruksnr" : 1,
+      "gardsnr" : 95,
+      "kommuneNr" : "0138",
+      "festenr" : null,
+      "seksjonsnr" : null
+    },
+    "husnummer" : 15,
+    "bokstav" : null,
+    "bruksenheter" : [ {
+      "bruksenhetsnummer" : "H0101",
+      "bygningsnummer" : "148603685"
+    } ]
+  } ],
+  "status" : "200"
+}
