@@ -15,7 +15,9 @@ public class JsonUtil {
 
     public static  <T> String toJson(T t){
         try {
-            return o.writeValueAsString(t);
+            String valueAsString = o.writeValueAsString(t);
+            log.info("Json reponse:\n", valueAsString);
+            return valueAsString;
         } catch (JsonProcessingException e) {
             log.error(e.getMessage(), e);
             throw new RuntimeException(e);
