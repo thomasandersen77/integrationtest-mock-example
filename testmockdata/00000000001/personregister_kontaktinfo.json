@@ -1,9 +1,9 @@
 {
-  "path": "/personregister/kontaktopplysninger/30127528426",
+  "path": "/personregister/kontaktopplysninger/*",
   "method": "GET",
   "responseBody": { "status" : "AKTIV", 
-                    "mobil" : "+336585254859",
-                    "epost" : "hanne@myhre.no"
+                    "mobil" : "+",
+                    "epost" : ""
                    }
 }
 
