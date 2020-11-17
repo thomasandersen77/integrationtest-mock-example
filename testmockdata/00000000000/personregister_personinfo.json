@@ -11,7 +11,7 @@
                         "postnummer": "0165",
                         "poststed": "Oslo"
                       },
-                     "barnFodselsnummer": ["11069600362"]
+                     "barnFodselsnummer": ["*"]
                     },
                     "kontaktOpplysninger" : { "status" : "AKTIV", "mobil" : "+*", "epost" : "*@*.no"}
                    }
