@@ -1,9 +1,9 @@
 {
-  "path": "/personregister/kontaktopplysninger/01026300394",
+  "path": "/personregister/kontaktopplysninger/*",
   "method": "GET",
   "responseBody": { "status" : "AKTIV", 
-                    "mobil" : "+4798765324", 
-                    "epost" : "adrian@kvam.no"
+                    "mobil" : "+*", 
+                    "epost" : "adrian@*.no"
                    }
 }
 
